@@ -1,0 +1,31 @@
+ body{
+
+            text-align: center;
+
+            align-items: center;
+
+            background-image:url(bg.jpg);
+
+            background-size: cover;
+
+            background-repeat: no-repeat;
+
+            font-size: 20px;
+
+    }
+
+    h3{
+
+            color: aliceblue;
+
+    }
+
+    output{
+
+        color: aliceblue; 
+
+    }
+
+    
+
+  
